@@ -1,21 +1,20 @@
 # DeliveryGame-WebGL
-This 3D game called Delivery. The player controls the driver to pick up the food box and carry to the destination before the time runs out. Be careful on the road 😝
+This 3D browser-based adventure game made with Unity and C#.  
+
+**Objective**
+The objective of Delivery is that players control the driver to pick up the food box(red square on map) and carry to the destination(green square on map) before the time runs out. 
+
+The players will get familiar with the control of the motorcycle and need to be careful with cars and trucks. They may find the launch pads between the buildings and use them to pass over the obstacles. Players will get sense of achievement when they earn more money than last round. 
+
+**Control**
+W:Forward
+S:Back
+A:Turn left
+D:Turn right
+R:Play again
 
 **Play Game:**
 - [DeliveryPlay](https://tianzuopeng.github.io/DeliveryGame-WebGL/)
-
-**Control**
-- W:Forward
-- S:Back
-- A:Turn left
-- D:Turn right
-
-**Objects**
-- Player: Yellow arrow on minimap.
-- Food: Paper box /red spot on minimap. 
-- Destination: Green platform /green spot on minimap.
-- Car/Truck: can kill player.
-- Laucher:pushes player into sky.
 
 **Source**
 Building Materials: http://2fmoive.fevte.com/thread-4222-1-1.html
