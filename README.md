@@ -18,7 +18,7 @@ R:Play again
 
 **Play Game:**
 
-- [DeliveryPlay](https://tianzuopeng.github.io/DeliveryGame-WebGL/)
+- [DeliveryPlay](https://tianzuopeng.github.io/Delivery-Game/)
 
 **Source**
 
